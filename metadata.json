@@ -1,0 +1,5 @@
+{
+  "name": "Clarity-maybe?",
+  "description": "A frontend implementation for the Rust+SurrealDB prioritisation system. Features item management, axis configuration, P0-P3 classification visualization, and matrix/heatmap views.",
+  "requestFramePermissions": []
+}
